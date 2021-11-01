@@ -1,4 +1,5 @@
 # An Analysis of Kickstarter Campaigns
+## Overview of Project
 Performing analysis on Kickstarter data to uncover trends 
 ### Purpose
 The purpose of this analysis was to help Louise determine if there are any specific factors that make a fundraising campaign more successful and if there are, how can Louise implement these factors to make her campaign as successful.
